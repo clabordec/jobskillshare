@@ -2,7 +2,7 @@
 
 📌 **Overview**  
 
-Job Skill Share is a professional development platform designed to drive measurable impact for both individuals and businesses. Job Skill Share focuses on bridging the skills gap in today’s workforce, enabling organizations to enhance productivity, retain top talent, and strengthen competitiveness in a dynamic economy. By aligning learning outcomes with business objectives, Job Skill Share turns skill development into a strategic advantage.
+KodeKloud is a professional development platform designed to drive measurable impact for both individuals and businesses. Job Skill Share focuses on bridging the skills gap in today’s workforce, enabling organizations to enhance productivity, retain top talent, and strengthen competitiveness in a dynamic economy. By aligning learning outcomes with business objectives, Job Skill Share turns skill development into a strategic advantage.
 
 ---
 
