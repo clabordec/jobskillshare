@@ -18,7 +18,7 @@ KodeKloud is a professional development platform designed to drive measurable im
 ---
 
 ✨ **Operating Systems**  
-- Windows Server 2022  
+- Ubuntu 22.04  
 - Windows 10
 
 ---
